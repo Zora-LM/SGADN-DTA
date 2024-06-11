@@ -6,13 +6,9 @@ This is the code necessary to run experiments on SGADN described in the paper [S
 # Environments
 
 python==3.10.6
-
 rdkit==2023.03.1
-
 dgl==1.0.2+cu102
-
 pytorch==1.12.1
-
 openbabel==3.1.0
 
 
