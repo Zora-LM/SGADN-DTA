@@ -12,6 +12,7 @@ openbabel==3.1.0
 
 
 ##################################
+
 0. download PDBbind-2020 dataset from http://www.pdbbind.org.cn/, and CSAR-HiQ dataset from http://www.csardock.org/.
 Notice: You need to use the UCSF Chimera tool to convert the PDB-format files into MOL2-format files for feature extraction at first.
 The SMILES of ligands and sequences of proteins in dataset/smiles_sequence.csv are obtained from http://www.pdbbind.org.cn/
