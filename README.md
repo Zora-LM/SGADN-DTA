@@ -23,7 +23,7 @@ The SMILES of ligands and sequences of proteins in dataset/smiles_sequence.csv a
 2. run 'run_train.py' to train SGADN and test on the core set.
 
 
-If you make use of this code or the GraIL algorithm in your work, please cite the following paper:
+If you make use of this code or the SGADN algorithm in your work, please cite the following paper:
 
 @article{li2023structure,  
   title={Structure-Aware Graph Attention Diffusion Network for Protein--Ligand Binding Affinity Prediction},  
