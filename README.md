@@ -29,9 +29,15 @@ The SMILES of ligands and sequences of proteins in dataset/smiles_sequence.csv a
 
 If you make use of this code or the GraIL algorithm in your work, please cite the following paper:
 @article{li2023structure,
+
   title={Structure-Aware Graph Attention Diffusion Network for Protein--Ligand Binding Affinity Prediction},
+  
   author={Li, Mei and Cao, Ye and Liu, Xiaoguang and Ji, Hua},
+  
   journal={IEEE Transactions on Neural Networks and Learning Systems},
+  
   year={2023},
+  
   publisher={IEEE}
+  
 }
